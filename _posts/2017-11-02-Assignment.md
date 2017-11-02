@@ -17,5 +17,5 @@ tags: java基础
 ![](http://quhailong.top/images/posts/javase/2.png)
 <br>
 
-转载请注明：[屈海龙的博客](http://quhailong.top) » [Markdown简介及基本使用方法](http://quhailong.top/2017/11/Assignment/)                   
+转载请注明：[屈海龙的博客](http://quhailong.top) » [java中赋值及引用问题](http://quhailong.top/2017/11/Assignment/)                   
 
