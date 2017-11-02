@@ -48,8 +48,7 @@ H3 :### 三级标题
 内嵌代码 : 用两个`把代码包起来即可 
 
 效果： 
-`alert('Hello World');`        
-画水平线 (HR) :--------         
+`alert('Hello World');`                
 
 ### 好用的 Markdown 编辑器
 本人推荐使用MarkDownPad 2，界面比较简洁，也很好用
